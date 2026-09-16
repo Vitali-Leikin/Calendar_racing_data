@@ -1,0 +1,170 @@
+[
+  {
+    "round": 1,
+    "grand_prix": "Гран-при Австралии",
+    "circuit": "Альберт-Парк, Мельбурн",
+    "date": "2026-03-08",
+    "color_code": "#FF5733"
+  },
+  {
+    "round": 2,
+    "grand_prix": "Гран-при Китая",
+    "circuit": "Шанхай",
+    "date": "2026-03-15",
+    "color_code": "#C70039"
+  },
+  {
+    "round": 3,
+    "grand_prix": "Гран-при Японии",
+    "circuit": "Судзука",
+    "date": "2026-03-29",
+    "color_code": "#900C3F"
+  },
+  {
+    "round": 4,
+    "grand_prix": "Гран-при Бахрейна",
+    "circuit": "Сахир",
+    "date": "2026-04-12",
+    "color_code": "#581845"
+  },
+  {
+    "round": 5,
+    "grand_prix": "Гран-при Саудовской Аравии",
+    "circuit": "Джидда",
+    "date": "2026-04-19",
+    "color_code": "#1A5276"
+  },
+  {
+    "round": 6,
+    "grand_prix": "Гран-при Майами",
+    "circuit": "Майами",
+    "date": "2026-05-03",
+    "color_code": "#1ABC9C"
+  },
+  {
+    "round": 7,
+    "grand_prix": "Гран-при Канады",
+    "circuit": "Монреаль",
+    "date": "2026-05-24",
+    "color_code": "#2ECC71"
+  },
+  {
+    "round": 8,
+    "grand_prix": "Гран-при Монако",
+    "circuit": "Монако",
+    "date": "2026-06-07",
+    "color_code": "#3498DB"
+  },
+  {
+    "round": 9,
+    "grand_prix": "Гран-при Испании",
+    "circuit": "Барселона",
+    "date": "2026-06-14",
+    "color_code": "#9B59B6"
+  },
+  {
+    "round": 10,
+    "grand_prix": "Гран-при Австрии",
+    "circuit": "Шпильберг",
+    "date": "2026-06-28",
+    "color_code": "#F1C40F"
+  },
+  {
+    "round": 11,
+    "grand_prix": "Гран-при Великобритании",
+    "circuit": "Сильверстоун",
+    "date": "2026-07-05",
+    "color_code": "#E67E22"
+  },
+  {
+    "round": 12,
+    "grand_prix": "Гран-при Бельгии",
+    "circuit": "Спа-Франкоршам",
+    "date": "2026-07-19",
+    "color_code": "#E74C3C"
+  },
+  {
+    "round": 13,
+    "grand_prix": "Гран-при Венгрии",
+    "circuit": "Хунгароринг",
+    "date": "2026-07-26",
+    "color_code": "#34495E"
+  },
+  {
+    "round": 14,
+    "grand_prix": "Гран-при Нидерландов",
+    "circuit": "Зандворт",
+    "date": "2026-08-23",
+    "color_code": "#D35400"
+  },
+  {
+    "round": 15,
+    "grand_prix": "Гран-при Италии",
+    "circuit": "Монца",
+    "date": "2026-09-06",
+    "color_code": "#27AE60"
+  },
+  {
+    "round": 16,
+    "grand_prix": "Гран-при Испании (Мадрид)",
+    "circuit": "Мадрид",
+    "date": "2026-09-13",
+    "color_code": "#7D3C98"
+  },
+  {
+    "round": 17,
+    "grand_prix": "Гран-при Азербайджана",
+    "circuit": "Баку",
+    "date": "2026-09-26",
+    "color_code": "#2E4053"
+  },
+  {
+    "round": 18,
+    "grand_prix": "Гран-при Сингапура",
+    "circuit": "Марина-Бей",
+    "date": "2026-10-11",
+    "color_code": "#138D75"
+  },
+  {
+    "round": 19,
+    "grand_prix": "Гран-при США",
+    "circuit": "Остин",
+    "date": "2026-10-25",
+    "color_code": "#BA4A00"
+  },
+  {
+    "round": 20,
+    "grand_prix": "Гран-при Мехико",
+    "circuit": "Мехико",
+    "date": "2026-11-01",
+    "color_code": "#0E6251"
+  },
+  {
+    "round": 21,
+    "grand_prix": "Гран-при Бразилии",
+    "circuit": "Сан-Паулу",
+    "date": "2026-11-08",
+    "color_code": "#78281F"
+  },
+  {
+    "round": 22,
+    "grand_prix": "Гран-при Лас-Вегаса",
+    "circuit": "Лас-Вегас",
+    "date": "2026-11-22",
+    "color_code": "#6C3483"
+  },
+  {
+    "round": 23,
+    "grand_prix": "Гран-при Катара",
+    "circuit": "Лусаил",
+    "date": "2026-11-29",
+    "color_code": "#1F618D"
+  },
+  {
+    "round": 24,
+    "grand_prix": "Гран-при Абу-Даби",
+    "circuit": "Яс-Марина",
+    "date": "2026-12-06",
+    "color_code": "#196F3D"
+  }
+]
