@@ -5,7 +5,8 @@
     "circuit": "Albert Park Circuit",
     "race_date_iso": "2026-03-08T04:00:00Z",
     "race_date_local": "2026-03-08T15:00:00+11:00",
-    "color_code": "#004B87"
+    "color_code": "#004B87",
+    "country_flag": "🇦🇺"
   },
   {
     "round": 2,
@@ -13,7 +14,8 @@
     "circuit": "Shanghai International Circuit",
     "race_date_iso": "2026-03-15T07:00:00Z",
     "race_date_local": "2026-03-15T15:00:00+08:00",
-    "color_code": "#EE1C25"
+    "color_code": "#EE1C25",
+    "country_flag": "🇨🇳"
   },
   {
     "round": 3,
@@ -21,7 +23,8 @@
     "circuit": "Suzuka International Racing Course",
     "race_date_iso": "2026-03-29T05:00:00Z",
     "race_date_local": "2026-03-29T14:00:00+09:00",
-    "color_code": "#000000"
+    "color_code": "#000000",
+    "country_flag": "🇯🇵"
   },
   {
     "round": 4,
@@ -29,7 +32,8 @@
     "circuit": "Miami International Autodrome",
     "race_date_iso": "2026-05-03T19:00:00Z",
     "race_date_local": "2026-05-03T15:00:00-04:00",
-    "color_code": "#00A3E0"
+    "color_code": "#00A3E0",
+    "country_flag": "🇺🇸"
   },
   {
     "round": 5,
@@ -37,7 +41,8 @@
     "circuit": "Circuit Gilles-Villeneuve",
     "race_date_iso": "2026-05-24T18:00:00Z",
     "race_date_local": "2026-05-24T14:00:00-04:00",
-    "color_code": "#D80621"
+    "color_code": "#D80621",
+    "country_flag": "🇨🇦"
   },
   {
     "round": 6,
@@ -45,7 +50,8 @@
     "circuit": "Circuit de Monaco",
     "race_date_iso": "2026-06-07T13:00:00Z",
     "race_date_local": "2026-06-07T15:00:00+02:00",
-    "color_code": "#FFFFFF"
+    "color_code": "#FFFFFF",
+    "country_flag": "🇲🇨"
   },
   {
     "round": 7,
@@ -53,7 +59,8 @@
     "circuit": "Circuit de Barcelona-Catalunya",
     "race_date_iso": "2026-06-14T13:00:00Z",
     "race_date_local": "2026-06-14T15:00:00+02:00",
-    "color_code": "#E38E00"
+    "color_code": "#E38E00",
+    "country_flag": "🇪🇸"
   },
   {
     "round": 8,
@@ -61,7 +68,8 @@
     "circuit": "Red Bull Ring",
     "race_date_iso": "2026-06-28T13:00:00Z",
     "race_date_local": "2026-06-28T15:00:00+02:00",
-    "color_code": "#06133A"
+    "color_code": "#06133A",
+    "country_flag": "🇦🇹"
   },
   {
     "round": 9,
@@ -69,7 +77,8 @@
     "circuit": "Silverstone Circuit",
     "race_date_iso": "2026-07-05T14:00:00Z",
     "race_date_local": "2026-07-05T15:00:00+01:00",
-    "color_code": "#00247D"
+    "color_code": "#00247D",
+    "country_flag": "🇬🇧"
   },
   {
     "round": 10,
@@ -77,7 +86,8 @@
     "circuit": "Circuit de Spa-Francorchamps",
     "race_date_iso": "2026-07-19T13:00:00Z",
     "race_date_local": "2026-07-19T15:00:00+02:00",
-    "color_code": "#002D62"
+    "color_code": "#002D62",
+    "country_flag": "🇧🇪"
   },
   {
     "round": 11,
@@ -85,7 +95,8 @@
     "circuit": "Hungaroring",
     "race_date_iso": "2026-07-26T13:00:00Z",
     "race_date_local": "2026-07-26T15:00:00+02:00",
-    "color_code": "#477050"
+    "color_code": "#477050",
+    "country_flag": "🇭🇺"
   },
   {
     "round": 12,
@@ -93,7 +104,8 @@
     "circuit": "Circuit Zandvoort",
     "race_date_iso": "2026-08-30T13:00:00Z",
     "race_date_local": "2026-08-30T15:00:00+02:00",
-    "color_code": "#21468B"
+    "color_code": "#21468B",
+    "country_flag": "🇳🇱"
   },
   {
     "round": 13,
@@ -101,7 +113,8 @@
     "circuit": "Autodromo Nazionale Monza",
     "race_date_iso": "2026-09-06T13:00:00Z",
     "race_date_local": "2026-09-06T15:00:00+02:00",
-    "color_code": "#C61D23"
+    "color_code": "#C61D23",
+    "country_flag": "🇮🇹"
   },
   {
     "round": 14,
@@ -109,7 +122,8 @@
     "circuit": "Madrid Street Circuit",
     "race_date_iso": "2026-09-13T13:00:00Z",
     "race_date_local": "2026-09-13T15:00:00+02:00",
-    "color_code": "#F1BF00"
+    "color_code": "#F1BF00",
+    "country_flag": "🇪🇸"
   },
   {
     "round": 15,
@@ -117,7 +131,8 @@
     "circuit": "Baku City Circuit",
     "race_date_iso": "2026-09-26T11:00:00Z",
     "race_date_local": "2026-09-26T15:00:00+04:00",
-    "color_code": "#00B5E2"
+    "color_code": "#00B5E2",
+    "country_flag": "🇦🇿"
   },
   {
     "round": 16,
@@ -125,7 +140,8 @@
     "circuit": "Marina Bay Street Circuit",
     "race_date_iso": "2026-10-11T12:00:00Z",
     "race_date_local": "2026-10-11T20:00:00+08:00",
-    "color_code": "#FFB612"
+    "color_code": "#FFB612",
+    "country_flag": "🇸🇬"
   },
   {
     "round": 17,
@@ -133,7 +149,8 @@
     "circuit": "Circuit of the Americas",
     "race_date_iso": "2026-10-25T20:00:00Z",
     "race_date_local": "2026-10-25T15:00:00-05:00",
-    "color_code": "#BF0A30"
+    "color_code": "#BF0A30",
+    "country_flag": "🇺🇸"
   },
   {
     "round": 18,
@@ -141,7 +158,8 @@
     "circuit": "Autódromo Hermanos Rodríguez",
     "race_date_iso": "2026-11-01T20:00:00Z",
     "race_date_local": "2026-11-01T14:00:00-06:00",
-    "color_code": "#006847"
+    "color_code": "#006847",
+    "country_flag": "🇲🇽"
   },
   {
     "round": 19,
@@ -149,7 +167,8 @@
     "circuit": "Autódromo José Carlos Pace",
     "race_date_iso": "2026-11-08T17:00:00Z",
     "race_date_local": "2026-11-08T14:00:00-03:00",
-    "color_code": "#009B3A"
+    "color_code": "#009B3A",
+    "country_flag": "🇧🇷"
   },
   {
     "round": 20,
@@ -157,7 +176,8 @@
     "circuit": "Las Vegas Strip Circuit",
     "race_date_iso": "2026-11-22T04:00:00Z",
     "race_date_local": "2026-11-21T20:00:00-08:00",
-    "color_code": "#E31837"
+    "color_code": "#E31837",
+    "country_flag": "🇺🇸"
   },
   {
     "round": 21,
@@ -165,7 +185,8 @@
     "circuit": "Lusail International Circuit",
     "race_date_iso": "2026-11-29T16:00:00Z",
     "race_date_local": "2026-11-29T19:00:00+03:00",
-    "color_code": "#8A1538"
+    "color_code": "#8A1538",
+    "country_flag": "🇶🇦"
   },
   {
     "round": 22,
@@ -173,6 +194,7 @@
     "circuit": "Yas Marina Circuit",
     "race_date_iso": "2026-12-06T13:00:00Z",
     "race_date_local": "2026-12-06T17:00:00+04:00",
-    "color_code": "#007A87"
+    "color_code": "#007A87",
+    "country_flag": "🇦🇪"
   }
 ]
